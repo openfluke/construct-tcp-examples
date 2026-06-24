@@ -1,0 +1,7 @@
+*.bin
+*.translation
+*.csv
+*.import
+/swarm_model_checkpoint_*
+/walking_skeleton_checkpoint_*
+.DS_Store
