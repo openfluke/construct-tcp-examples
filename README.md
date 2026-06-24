@@ -6,6 +6,8 @@ Apache-2.0 Go clients that connect to a **Construct TCP host** on `127.0.0.1:170
 
 **Default:** example **13** — spawns a showcase of every supported part shape on the planet surface.
 
+**Video demo:** [SoulGlitch showcase — all 13 tests + planet walk (YouTube)](https://youtu.be/TJUrKzXgeAc)
+
 License: **Apache-2.0** (see [LICENSE](LICENSE)).
 
 ---
